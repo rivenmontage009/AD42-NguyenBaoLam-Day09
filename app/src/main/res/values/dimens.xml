@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_edit_text">4dp</dimen>
+    <dimen name="custom_margin_bottom">8dp</dimen>
+    <dimen name="text_size_et">12sp</dimen>
+</resources>

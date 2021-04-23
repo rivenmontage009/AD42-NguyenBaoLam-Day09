@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework Day09</string>
+    <string name="title">Title</string>
+    <string name="remind_me_at">Remind me at:</string>
+    <string name="type">Type:</string>
+    <string name="tags">Tags:</string>
+    <string name="weeks">Weeks:</string>
+    <string name="choose_tags">Choose tags:</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_weeks">Choose weeks:</string>
+    <string name="tune">Tune</string>
+    <string name="from_defaults">From defaults</string>
+    <string name="from_file">From file</string>
+    <string name="save">Save</string>
+    <string name="connect_success">Connection Successful</string>
+    <string name="create_note">CREATE NEW NOTE</string>
+    <string name="type_work">Work</string>
+    <string name="type_learn">Learn</string>
+    <string name="type_go_out">Go out</string>
+</resources>

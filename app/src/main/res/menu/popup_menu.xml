@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/pmFromFile"
+        android:title="@string/from_file"/>
+    <item android:id="@+id/pmFromDefaults"
+        android:title="@string/from_defaults"/>
+</menu>
